@@ -1,4 +1,4 @@
-# Affine Combining Autoencoder (ACAE)
+# Affine-Combining Autoencoder (ACAE)
 
 This repository contains code for the paper "Learning 3D Human Pose Estimation from Dozens of Datasets using a Geometry-Aware Autoencoder to Bridge Between Skeleton Formats" by István Sárándi, Alexander Hermans, and Bastian Leibe.
 The paper relies also on code from several other repos, including [metrabs](https://github.com/isarandi/metrabs) and [posepile](https://github.com/isarandi/posepile). This repo is specifically for the ACAE part. 
